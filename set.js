@@ -11,7 +11,7 @@ module.exports = { session: process.env.SESSION_ID || 'ezra',
     PREFIXE: process.env.PREFIX || "+",
     GITHUB : process.env.GITHUB|| 'https://github.com',
     OWNER_NAME : process.env.OWNER_NAME || "FrediEzra",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "917086810603";"917086726371",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || ["917086810603","917086726371"],
     DEV : process.env.DEV || "ᴍʏꜱᴛɪᴄ 𝙏𝙄𝙆𝙐  🎀🌷",
               
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
