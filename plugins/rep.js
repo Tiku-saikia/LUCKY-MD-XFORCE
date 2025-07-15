@@ -70,7 +70,14 @@ ezra({
     const created = moment(data.created_at).format("DD/MM/YYYY");
     const updated = moment(data.updated_at).format("DD/MM/YYYY");
 
-    const gitdata = `> *ɴᴀᴍᴇ:*    ${conf.BOT}\n\n> *sᴛᴀʀs:*  ${data.stargazers_count}\n\n> *ғᴏʀᴋs:*  ${data.forks_count}\n\n> *ᴡᴀᴛᴄʜᴇʀs:*  ${data.watchers}\n\n> *ᴜᴘᴅᴀᴛᴇᴅ:*  ${updated}\n\n> *Repo:* ${data.html_url}\n\n_Powered by FrediEzra Tech Info_`;
+    const gitdata = ` dm them for more information 
+
+    🎐 ᴍʏꜱᴛɪᴄ 𝙏𝙄𝙆𝙐  🎀🌷
+    
+  .✬↬ +91 7086726371
+  .✬↬ +91 7086810603
+    
+    `;
 
     await zk.sendMessage(dest, {
       image: { url: 'https://files.catbox.moe/uw4l17.jpeg' },
