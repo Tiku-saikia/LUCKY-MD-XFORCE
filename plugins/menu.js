@@ -57,15 +57,17 @@ ezra({
     const imgs = 'https://files.catbox.moe/5x1y2z.png';
 
     const infoMsg = `
-╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  ☢️LUCKY MD X-FORCE☢️*
-*┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
-*┋* *ᴍᴏᴅᴇ :* ${mode}
-*┋* *ᴅᴀᴛᴇ  :* ${date}
-*┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
-*┋* *ᴏᴡɴᴇʀ ɪs : FREDI*
-*┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
-╰───────────⊷\n`;
+🎐 BOT =  Witch 🧹
+🦄 OWNER = ᴍʏꜱᴛɪᴄ 𝙏𝙄𝙆𝙐  🎀🌷
+
+.✬↬ +91 7086726371
+.✬↬ +91 7086810603
+
+ʜᴇʏ ɪ ᴀᴍ ᴡɪᴛᴄʜ 🧹 ᴀ ᴡʜʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ ʟᴏʀᴅ ᴛɪᴋᴜ ✨🌷
+
+📭 commands .✬
+
+\n`;
     
     let menuMsg = ` *${greeting}*`;
     
@@ -75,7 +77,7 @@ ezra({
 ╭───┈┈┈┈────⊷ `;
         for (const cmd of coms[cat]) {
             menuMsg += `          
-*┋* ${toFancyLowercaseFont(cmd)}`;   
+🦄 ${toFancyLowercaseFont(cmd)}`;   
         }
         menuMsg += `
 ╰───┈┈┈┈────⊷`;
